@@ -1,0 +1,16 @@
+    September 19th: Introduction
+    vim:se sw=4 fdm=indent:
+
+Blue-Red Hackenbush
+===================
+
+- Two colours, left (bLue) and right (red)
+- Left starts
+- Each turn, you may erase an edge of your colour
+- Minecraft physics do not apply
+
+!feh -Z hackenbush0.png &
+!feh -Z hackenbush1.png &
+
+    Who's winning?
+    14 - 11 = 3 for Left

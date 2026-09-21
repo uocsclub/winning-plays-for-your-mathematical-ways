@@ -1,0 +1,13 @@
+    September 19th: Introduction
+    vim:se sw=4 fdm=indent:
+
+Elwyn Ralph Berlekamp (1940 - 2019)
+===================================
+
+!feh -Z berlekamp.jpg &
+
+- Professor at University of California, Berkeley
+- Accomplished juggler
+- Mathematical researcher at Bell Labs 1966-1971
+- Error correcting codes
+- Studied games, especially Go

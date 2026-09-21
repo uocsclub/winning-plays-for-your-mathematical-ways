@@ -1,0 +1,22 @@
+    September 19th: Introduction
+    vim:se sw=4 fdm=indent:
+
+Conway chained arrow notation
+=============================
+
+1. An empty chain is equal to 1
+2. a  means  a
+3. a -> b  means  a^b
+4. a -> b -> c  means  a ^(c) b, where that's Knuth's up-arrow notation
+5. # -> 1  and  # -> 1 -> b  both mean  #
+6. # -> a -> b  means  # -> (# -> (a-1) -> b) -> (b-1)
+	where # is another Conway chain
+
+Examples:
+- 3
+- 3 -> 4
+- 4 -> 3 -> 2
+- 2 -> 2 -> 2
+- 2 -> 4 -> 3
+- 2 -> 3 -> 2 -> 2
+- 3 -> 2 -> 2 -> 2

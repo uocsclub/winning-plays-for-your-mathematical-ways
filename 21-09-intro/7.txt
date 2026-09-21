@@ -1,0 +1,15 @@
+    September 19th: Introduction
+    vim:se sw=4 fdm=indent:
+
+Tweedledum and Tweedledee
+=========================
+
+- Zero position
+
+!feh -Z tweedledum0.png &
+!feh -Z tweedledum1.png &
+
+!feh -Z dog.png &
+
+    Who's winning?
+    9 - 7 = 2 for Left

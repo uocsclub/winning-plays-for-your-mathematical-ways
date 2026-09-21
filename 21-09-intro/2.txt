@@ -1,0 +1,21 @@
+    September 19th: Introduction
+    vim:se sw=4 fdm=indent:
+
+John Horton Conway (1937 - 2020)
+================================
+
+!feh -Z conway.jpg &
+- University of Cambridge, Princeton University
+
+- Conway's Game of Life
+!feh -Z gol.gif &
+
+- Game theory, surreal numbers
+
+- Conway chained arrow notation, Conway knot notation
+!feh -Z knot.png &
+
+- Finite simple groups, Monster moonshine
+ - J-invariant, 196884; 196883 the degree of the smallest faithful complex representation of the monster group
+- Doomsday algorithm
+- Died of COVID

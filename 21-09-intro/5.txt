@@ -1,0 +1,22 @@
+    September 19th: Introduction
+    vim:se sw=4 fdm=indent:
+
+Strong laws of small numbers
+============================
+
+1. There aren't enough small numbers to meet the many demands made of them
+2. When two numbers look equal, it ain't necessarily so
+
+    In other words,
+    Superficial similarities spawn spurious statements.
+    Capricious coincidences cause careless conjectures.
+    Early exceptions eclipse eventual essentials.
+    Initial irregularities inhibit incisive intuition
+
+Examples:
+- 1/10 of 1-100 are perfect squares
+- 1/4 numbers < 100 are prines
+- except for 6, all numbers < 10 are print powers
+- 1/2 numbers < 10 are fibonacci numbers
+- 31, 331, 3331, 33331, 333331, 3333331
+- ceil(e^((n-1)/2))

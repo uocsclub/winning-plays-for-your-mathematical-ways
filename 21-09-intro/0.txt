@@ -1,0 +1,16 @@
+    September 19th: Introduction
+    vim:se sw=4 fdm=indent:
+    !feh ../poster.png &
+
+CS BOOK CLUB!! (intro and meandering)
+==============
+
+!feh -Z cover.jpg &
+
+1982, Berlekamp, Conway, Guy
+
+This is a book that can be obtained 100% LEGALLY!!
+
+https://www.taylorfrancis.com/books/mono/10.1201/9780429487330/winning-ways-mathematical-plays-elwyn-berlekamp-richard-guy-john-conway
+
+Meetings will be every Monday in SITE 4076, 11:30 - 12:30.

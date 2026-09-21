@@ -1,0 +1,12 @@
+    September 19th: Introduction
+    vim:se sw=4 fdm=indent:
+
+Richard Kenneth Guy (1916 - 2020)
+=================================
+
+!feh -Z guy.jpg &
+
+- University of Calgary
+- Cool eyebrows
+- Chess puzzles
+- Strong law of small numbers
