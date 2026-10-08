@@ -1,6 +1,6 @@
     September 19th: Introduction
     vim:se sw=4 fdm=indent:
-    !feh ../poster.png &
+    !feh ../graphics/poster.png &
 
 CS BOOK CLUB!! (intro and meandering)
 ==============
