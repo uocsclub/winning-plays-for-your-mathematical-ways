@@ -1,0 +1,14 @@
+    October 9th: Whose Game?
+    vim:se sw=4 fdm=indent:
+
+Law of averages
+===============
+
+!feh -Z question0.png &
+^ If blue goes first, they win by 0 moves. If red goes first, blue wins by 1 move. And we determined that this is a half-move advantage for blue.
+
+
+!feh -Z question1.png &
+^ If blue goes first, they win by one move. If red goes first, blue wins by two moves. This is a 1 1/2-move advantage for blue.
+
+Can we just take the average of the two cases?

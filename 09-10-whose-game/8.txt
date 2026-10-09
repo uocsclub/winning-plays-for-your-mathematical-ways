@@ -1,0 +1,11 @@
+    October 9th: Whose Game?
+    vim:se sw=4 fdm=indent:
+
+Next week
+=========
+
+Join us next week to discuss downhill skiing!
+
+Happy thanksgiving!
+
+!feh -Z ../graphics/poster.png &

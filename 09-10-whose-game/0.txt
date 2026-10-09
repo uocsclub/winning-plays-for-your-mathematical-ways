@@ -1,0 +1,10 @@
+    October 9th: Whose Game?
+    vim:se sw=4 fdm=indent:
+    !feh -Z ../graphics/poster.png &
+
+CS BOOK CLUB!!
+==============
+
+Today: an easy pencil-and-paper (or chalk-and-blackboard) game.
+
+!feh -Z hackenbush0.png &

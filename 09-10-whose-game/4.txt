@@ -1,0 +1,10 @@
+    October 9th: Whose Game?
+    vim:se sw=4 fdm=indent:
+
+What about now?
+===============
+
+!feh -Z question1.png &
+
+		Answer:
+		!feh -Z answer1.png &

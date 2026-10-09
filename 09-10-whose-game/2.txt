@@ -1,0 +1,18 @@
+    October 9th: Whose Game?
+    vim:se sw=4 fdm=indent:
+
+Tweedledum and Tweedledee
+=========================
+
+!feh -Z tweedledum0.png &
+!feh -Z tweedledum1.png &
+
+		Zero position:
+		Whoever starts loses
+		Tweedledum and Tweedledee strategy: copy your opponent
+
+!feh -Z dog.png &
+
+    Who's winning? Why? By how much?
+    9 - 7 = 2 for Left
+		Because each player's edges are connected to the ground without relying on any edges of the other colour

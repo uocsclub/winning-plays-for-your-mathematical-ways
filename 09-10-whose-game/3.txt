@@ -1,0 +1,16 @@
+    October 9th: Whose Game?
+    vim:se sw=4 fdm=indent:
+
+Who wins here? By how much?
+===========================
+
+!feh -Z question0.png &
+
+		Answer:
+
+		!feh -Z answer0.png &
+
+		Blue always wins (a). So Blue has an advantage. But is it equivalent to a one move advantage? Let's give Red another move and see.
+		Here, in (b), Red always wins. So Blue's advantage is greater than 0 but less than 1. Could it be 1/2 a move?
+		To test this, let's add two copies of (a), then give (c) a one move advantage. And here, we are in the zero position: whoever starts loses.
+		So Blue has a half move advantage in (a).

@@ -1,0 +1,15 @@
+    October 9th: Whose Game?
+    vim:se sw=4 fdm=indent:
+
+How many now?
+=============
+
+!feh -Z question2.png &
+
+		Answer:
+		!feh -Z answer2.png &
+		Since giving red a half move advantage balances out two copies of (a), (a) is a quarter move advantage for blue.
+
+What about this one?
+
+!feh -Z question3.png &
