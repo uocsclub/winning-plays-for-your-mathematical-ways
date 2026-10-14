@@ -1,0 +1,18 @@
+    October 16th: Skiing
+    vim:se sw=4 fdm=indent:
+
+Ski-Jumps for Beginners
+=======================
+
+More generally, if
+- Left has a single skiier on the board with a spaces (and hence a+1 moves) before him
+- Right has a single skiier on the board with b spaces before /him/
+- One of the two can jump over the other
+
+What will the value be?
+
+    Answer
+    If Left is above: {(a+1)-(b+1)|(a+1)-b} = {a-b|a-b+1} = a-b+1/2
+    If Right is above: {a-(b+1)|(a+1)-(b+1)} = {a-b-1|a-b} = a-b-1/2
+
+		So an imminent jump is worth about half a move to the player who can make it.

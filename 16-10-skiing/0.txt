@@ -1,0 +1,10 @@
+    October 16th: Skiing
+    vim:se sw=4 fdm=indent:
+    ../graphics/poster.png
+
+CS BOOK CLUB!!
+==============
+
+Today: some skiiers jump over each other!
+
+skijumps0.png

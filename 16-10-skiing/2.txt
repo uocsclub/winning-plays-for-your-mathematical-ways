@@ -1,0 +1,18 @@
+    October 16th: Skiing
+    vim:se sw=4 fdm=indent:
+
+The value of a tree
+===================
+
+question2.png
+
+		Answer:
+		9 1/2, of course!
+
+		Red's best move leads to a position of value 10, and Blue's best move leads to a position of value 9. So we write {9|10} = 9 1/2 ("9 slash 10 equals 9 1/2").
+
+		More generally, we always have the equation {n|n+1} = n + 1/2.
+
+		Also, {n| } = n + 1
+
+		{ | } = 0.

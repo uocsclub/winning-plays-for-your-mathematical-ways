@@ -1,0 +1,15 @@
+    October 16th: Skiing
+    vim:se sw=4 fdm=indent:
+
+How many now?
+=============
+
+question0.png
+
+		Answer:
+		answer0.png
+		Since giving red a half move advantage balances out two copies of (a), (a) is a quarter move advantage for blue.
+
+What about this one?
+
+question1.png

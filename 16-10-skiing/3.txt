@@ -1,0 +1,20 @@
+    October 16th: Skiing
+    vim:se sw=4 fdm=indent:
+
+Ski-Jumps for Beginners
+=======================
+
+- Left's skiiers move a square or more Eastward
+- Right's skiiers move a square or more Westward
+- If a skiier is immediately above an opposing one, they may jump them
+- The skiier jumped over is so humiliated that he is demoted from being a *jumper* to being a *slipper*
+- If you cannot move, you lose
+
+What are the values of these positions? skijumps1.png
+
+		Answers:
+		(a) 5 - 3 = 2 for Left
+		(b) 5 + 2 - 8 for Left, that is, 1 for Right
+    (c) if Left goes first, he should jump, for a value of 4 - 2 = 2
+		    if Right goes first, the value is 4 - 1 = 3.
+		    So this position has value {2|3} = 2 1/2.
