@@ -1,0 +1,9 @@
+    October 16th: Skiing
+    vim:se sw=4 fdm=indent:
+
+Have a good week!
+=================
+
+Next week: how much is a jump worth? Toads and frogs!
+
+../graphics/poster.png
