@@ -1,0 +1,10 @@
+    October 23rd: Jumpity Jump
+    vim:se sw=4 fdm=indent:
+    ../graphics/poster.png
+
+CS BOOK CLUB!!
+==============
+
+Today: skiiers jump! Toads jump! Frogs jump!
+
+skijumps0.png toads0.png

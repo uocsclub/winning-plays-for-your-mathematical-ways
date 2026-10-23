@@ -1,0 +1,15 @@
+    October 23rd: Jumpity Jump
+    vim:se sw=4 fdm=indent:
+
+What is a jump worth?
+=====================
+
+Recall: before, we said that a jump was worth half a move. But in fact:
+
+jumpworth.png
+
+- A jump for Blue is +1/2 if it's unavoidable when Blue starts (ie both players are the same distance from one square). (Red could avoid it by losing further)
+
+- A jump for Blue is +0 if it's not unavoidable when Blue starts and Blue wins the position
+
+- A jump for Blue is +1 if it's not unavoidable when Blue starts and Red wins the position (also moves a Red win to a zero game)

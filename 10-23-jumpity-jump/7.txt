@@ -1,0 +1,9 @@
+    October 23rd: Jumpity Jump
+    vim:se sw=4 fdm=indent:
+
+Have a good week!
+=================
+
+Enjoy your reading week!! Next book club in 2 weeks.
+
+../graphics/poster.png

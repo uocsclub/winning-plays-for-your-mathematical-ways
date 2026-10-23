@@ -1,0 +1,17 @@
+    October 23rd: Jumpity Jump
+    vim:se sw=4 fdm=indent:
+
+Warm up: What is the value of this position?
+============================================
+
++-+-+-+-+
+|L| | | |
++-+-+-+-+
+| | |R| |
++-+-+-+-+
+| | | | |
++-+-+-+-+
+
+    Answer
+    1 of course! The value is {0|2}, which in Hackenbush terms, is clearly 1.
+		Alternatively, if we give R another move (by giving them an isolated skiier with one move), we see that it's an even game. Note that we can't just extend R's row leftward by one!

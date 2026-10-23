@@ -1,0 +1,21 @@
+    October 23rd: Jumpity Jump
+    vim:se sw=4 fdm=indent:
+
+Toads and Frogs
+===============
+
+toads0.png
+
+Left has trained Toads and Right has trained Frogs. Toads move only Eastwards, Frogs to the Left (Toads To, Frogs Fro).
+
+What are the values here? (positions in 4-place T&F) toads1.png
+
+		Answer
+		toads2.png
+
+Who wins the initial position? What is the optimal move?
+
+		Answer
+		1/2 + -1/2 + 1 + 0 + -1/2 = 1/2. So Blue wins, but just barely.
+
+Do our methods work?

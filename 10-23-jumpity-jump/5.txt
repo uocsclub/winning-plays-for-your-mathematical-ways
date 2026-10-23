@@ -1,0 +1,17 @@
+    October 23rd: Jumpity Jump
+    vim:se sw=4 fdm=indent:
+
+How much is this worth?
+=======================
+
+skijumps0.png
+
+		Answer
+		-1 1/2 + -2 + 3 = -1/2
+
+		What is Red's optimal move if he starts?
+
+-
+
+		Answer:
+		A: -1/2, B: -1, C: -1 1/2. So the best move (which loses Red the least amount of points) is the move in A. (incidentally, any other move loses Red the game)
