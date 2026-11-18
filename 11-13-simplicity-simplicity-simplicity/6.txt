@@ -1,0 +1,18 @@
+    November 13th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+What does it mean to add games together?
+========================================
+
+is there any game with position of value ⅝?
+
+Yes! five-eighths.png
+
+Here, we've added a game of value ½, and a game of value ⅛.
+So: {0|1} + {0|¼} = ⅝.
+
+Each player can only move the first or second component.
+
+If Left moves the first component, he's left with a game of value 0+⅛, and if he moves the second, he's left with a game of value ½+0. So he clearly prefers the latter.
+
+Similarly, Right's options are 1+⅛ and ½+¼. So ⅝ = {½|¾}. Is this true in general for all multiples of 1⁄2^k?

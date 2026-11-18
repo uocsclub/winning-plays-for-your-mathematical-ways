@@ -1,0 +1,9 @@
+    November 20th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+Have a good week
+================
+
+Next book club next week, 1:30, SITE 4076!
+
+../graphics/poster.png

@@ -1,0 +1,16 @@
+    November 20th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+Simplicity's the answer!
+========================
+
+Let's prove this in general. Consider the game {a|b}. Let's show {a|b} = c, where a<c<b, c = {x|y} with x <= a, b <= y.
+
+		Answer
+		{a|b} - c = {a|b} + {-y|-x}
+
+		By the same logic as before, neither player will want to play in the first component.
+
+		Left goes first:               Right goes first:
+		{a|b} - y                      {a|b} - x
+		b - y, win for Right           a - x, win for Left

@@ -1,0 +1,19 @@
+    November 20th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+What does it mean to add games together?
+========================================
+
+Yes it is! So fractions.png
+
+Proof:
+
+2p + 1
+------  =  2p+1 copies of 1/2^(n+1) = 2p+1 copies of {0|1/2^n}
+2^(n+1)
+
+If Left goes, they must change a 1/2^(n+1) into a 0.
+
+If Right goes, they must change a 1/2^(n+1) into a 1/2^n.
+
+For example, fractionsexample.png

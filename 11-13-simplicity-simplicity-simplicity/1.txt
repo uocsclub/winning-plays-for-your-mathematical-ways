@@ -1,0 +1,16 @@
+    November 13th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+What is a game?
+===============
+
+1. two players (can be called Left and Right)
+2. several *positions*, usually a *starting position*
+3. *rules* specify valid *moves* from a given position to its *options*
+4. Left and Right move alternately
+5. *normal play* convention: a player unable to play *loses*
+6. play will always eventually come to an end: the *ending condition*
+7. *complete information*
+8. there are no *chance moves*
+
+Consider: hackenbush toads-and-frogs ski-jumps tic-tac-toe chess snakes-and-ladders backgammon battleships rock-paper-scissors monopoly solitaire life poker bridge tennis dots-and-boxes go

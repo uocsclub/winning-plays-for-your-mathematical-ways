@@ -1,0 +1,16 @@
+    November 20th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+Simplicity's the answer!
+========================
+
+So to recap:
+{1¼|2} + (-1⅝) = {1¼|2} + {-1¾|-1½}. Right plays the -1½ move.
+{1¼|2} + (-1½) = {1¼|2} + {-2|-1}. Left must play the -2 move.
+{1¼|2} + (-2). Right can play the 2 move.
+2 + (-2) = 0. In the zero position, the player to move loses.
+
+So if Right starts, Left loses and Right wins. Thus {1¼|2} + (-1⅝) ≠ 0.
+So {1¼|2} ≠ 1⅝. Why not?
+
+For either player at the beginning, a move in the left component is suboptimal, because 1¼ - 1⅝ < 0 and 2 - 1⅝ > 0. So 1¼ < 1⅝ < 2. At the second equation, by the same logic, it's still suboptimal!

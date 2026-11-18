@@ -1,0 +1,14 @@
+    November 13th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+When is a move good?
+====================
+
+"good": it will win for you
+"bad": it will lose for you
+
+but not all good moves are equally good! not all bad moves are equally bad!
+
+if you're losing, may prefer a move that complicates the game for your opponent (enough rope principle)
+
+or maybe you even prefer a bad move to a good one!

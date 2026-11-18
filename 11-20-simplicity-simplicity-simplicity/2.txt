@@ -1,0 +1,15 @@
+    November 20th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+Simplicity's the answer!
+========================
+
+What is {1¼|2}? We know from ski-jumps it's not necessarily equal to 1⅝. How can we test this?
+
+		Answer
+		Let's try {1¼|2} + (-1⅝). If this is the zero position, the two are equal. We've seen that 1⅝ = {1½|1¾}, so -1⅝ = {-1¾|-1½}. 
+
+		So: {1¼|2} + {-1¾|-1½}. Both moves of the first component defintely lose for their player. (1¼ - 1⅝ is a win for Right, 2 - 1⅝ is a win for Left). 
+
+		But Right still has a good move: going from -1⅝ to -1½ = {-2|-1}.
+		In this new game {1¼|2} + -1½, a move in the first component is stilla loss for that player. So Left's would have to move in the second component, choosing the -2. The new game is {1¼|2} - 2, which Right can zero.

@@ -1,0 +1,12 @@
+    November 13th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+What does it mean to add games together?
+========================================
+
+if ½ = {0|1}, what is {0|½}? what is {0|¼}?
+
+		Answer
+		{0|½} = ¼, {0|¼} = ⅛. In general, this holds! (Think about it in Hackenbush)
+
+is there any game with position of value ⅝?

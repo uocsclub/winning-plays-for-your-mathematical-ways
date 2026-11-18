@@ -1,0 +1,13 @@
+    November 13th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+More terminology
+================
+
+tie: game ends but neither player wins
+draw: infinite play by repetition
+
+impartial: exactly the same moves are available to each player
+partizan: different moves are available to each player
+
+is hackenbush impartial or partizan? could you make it be the other?

@@ -1,0 +1,16 @@
+    November 20th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+Simplest Forms for Numbers
+==========================
+
+numbertree.png
+
+Each fork of the tree is a number whose best options are the nearest numbers left and right of it that are higher up.
+
+Canonical/simplest forms: simplest.png
+
+For example, 1½ = {1|2}, 13/16 = {¾|⅞}, 79 = {78| }, -53 = { |-52},
+47/64 = {23/32|24/32} = {23/32|¾}
+
+The simpler a number is, the nearer it is to the root/top of the tree!

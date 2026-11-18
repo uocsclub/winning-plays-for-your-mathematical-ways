@@ -1,0 +1,19 @@
+    November 13th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+What does it mean to add games together?
+========================================
+
+{a,b,c,...|d,e,f,...} is a position where Left's options are to positions of value a,b,c,..., and Right's options are to positions of value d,e,f,...
+
+The integers are:
+
+0 = { | }, 1 = {0| }, 2 = {1| }, ..., n+1 = {n| }
+
+-1 = { |0}, -2 = { |-1}, -3 = { |-2}, ..., -(n+1) = { |-n}
+
+In general, if n = {a|b}, is -n = {-b|-a}?
+
+We've also found: ½ = {0|1}, 1½ = {1|2}, 2½ = {2|3}, ...
+                 -½ = {-1|0}, -1½ = {-2|-1}, ...
+

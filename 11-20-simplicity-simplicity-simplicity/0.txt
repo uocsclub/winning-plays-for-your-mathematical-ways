@@ -1,0 +1,10 @@
+    November 20th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+    ../graphics/poster.png
+
+CS BOOK CLUB!!
+==============
+
+Today: we further our endeavour to compute numbers.
+
+numbers.png

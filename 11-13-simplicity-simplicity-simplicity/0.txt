@@ -1,0 +1,12 @@
+    November 13th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+    ../graphics/poster.png
+
+CS BOOK CLUB!!
+==============
+
+Today: it is Friday the 13th!!
+
+What is a game? Which numbers are which?
+
+numbers.png

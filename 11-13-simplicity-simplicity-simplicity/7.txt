@@ -1,0 +1,9 @@
+    November 13th: Simplicity, simplicity, simplicity
+    vim:se sw=4 fdm=indent:
+
+What does it mean to add games together?
+========================================
+
+Yes it is! So fractions.png
+
+For example, fractionsexample.png
