@@ -7,4 +7,4 @@ CS BOOK CLUB!!
 
 Today: we further our endeavour to compute numbers.
 
-numbers.png
+numbertree.png

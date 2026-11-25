@@ -1,0 +1,19 @@
+    November 27th: Cake
+    vim:se sw=4 fdm=indent:
+
+Simplicity   simplest.png
+==========
+
+Let's show {a|b} = c, where a<c<b, c = {x|y} with x <= a, b <= y.
+
+{a|b} - c = {a|b} + {-y|-x}
+
+Neither player will want to play in the first component.
+
+Left goes first:               Right goes first:
+{a|b} - y                      {a|b} - x
+b - y, win for Right           a - x, win for Left
+
+So {a|b} - c = 0, as hoped for!
+
+In this case, c /fits/, and c is the /simplest/ that fits if none of its options do.

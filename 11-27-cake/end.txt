@@ -1,0 +1,9 @@
+    November 27th: Cake
+    vim:se sw=4 fdm=indent:
+
+Have a good week
+================
+
+Next week: CUTCAKE!!
+
+../graphics/poster.png

@@ -1,0 +1,9 @@
+    November 27th: Cake
+    vim:se sw=4 fdm=indent:
+
+Cutcake
+==========
+
+cutcake.png
+
+Rita and her brother Lefty decide to play a game breaking the cookies up.Lefty will cut any rectangle into two smaller ones north-south, and Rita will cut some rectangle east-west. Whenever one child can't move, they are the loser.

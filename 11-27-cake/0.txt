@@ -1,0 +1,10 @@
+    November 27th: Cake
+    vim:se sw=4 fdm=indent:
+    ../graphics/poster.png
+
+CS BOOK CLUB!!
+==============
+
+Today: some simplicity review, then cake time!!
+
+numbertree.png

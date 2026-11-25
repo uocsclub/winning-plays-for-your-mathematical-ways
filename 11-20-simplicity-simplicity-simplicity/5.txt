@@ -13,4 +13,4 @@ If the options in {a,b,c,...|d,e,f,...} are all numbers, we'll say that the numb
 
 and x will be the *simplest* number that fits if none of its options do.
 
-For example, {2⅜|5} = 3 because 3 = {2 | }, and 2 does not lie between 2⅜ and 5, while 3 does. Also, {2½| } = 3, {-2½| } = 0. ({a| } is a number greater than a having no option greater than c, and { |b} is a number smaller than b having no option with this property.)
+For example, {2⅜|5} = 3 because 3 = {2| }, and 2 does not lie between 2⅜ and 5, while 3 does. Also, {2½| } = 3, {-2½| } = 0. ({a| } is a number greater than a having no option greater than a, and { |b} is a number smaller than b having no option with this property.)
