@@ -1,0 +1,12 @@
+    November 27th: Cake
+    vim:se sw=4 fdm=indent:
+
+Cutcake
+=======
+
+What a 2x4rectangle.png? Surely *now* it's long enough for Lefty to win!
+
+		Answer
+		2x4answer.png
+
+		What is {-1,0|6}?

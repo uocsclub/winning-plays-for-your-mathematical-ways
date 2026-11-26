@@ -1,0 +1,11 @@
+    November 27th: Cake
+    vim:se sw=4 fdm=indent:
+
+Cutcake
+=======
+
+What is {-1,0|6}?
+
+		Answer
+		The simplicity rule tells us we want the simplest number x with 0<x<6. So x = 1! In particular, we want x = {a|b} where neither a nor b fit (are strictly between 0 and 6). So x = 1 = { |0} works.
+

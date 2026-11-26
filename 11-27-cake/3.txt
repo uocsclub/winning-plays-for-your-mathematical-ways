@@ -1,0 +1,19 @@
+    November 27th: Cake
+    vim:se sw=4 fdm=indent:
+
+Cutcake
+=======
+
+What are the natural numbers?
+
+		Answer
+
+		□ = 0, □□ = 1, □□□ = 2, ...
+
+
+		 □  □  □
+		 □  □  □
+		    □  □
+           □
+
+		-1 -2 -3 ...

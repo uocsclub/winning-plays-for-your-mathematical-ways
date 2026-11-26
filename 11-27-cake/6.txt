@@ -1,0 +1,10 @@
+    November 27th: Cake
+    vim:se sw=4 fdm=indent:
+
+Cutcake
+=======
+
+Now consider all games from 1x1 to 10x10. What are their values?
+
+		Answer
+		cutcaketable.png
